@@ -1,0 +1,46 @@
+.overallDiv {
+    width: 98vw;
+    height: 98vh;
+    border: red 1px solid;    
+}
+
+.leftS {
+    border: red 1px solid;
+    width: 20vw;
+    height: 96vh;
+    float: left;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+
+
+.topM {
+    display: flex;
+    justify-content: space-between;
+    float: right;
+    height: 36vh;
+    width: 75vw;
+    margin-top: 10px;
+    margin-right: 10px;
+}
+
+.topM1 {
+    border: red 1px solid;
+    height: 70vh;
+    width: 30vw; 
+    margin-right: 10px;
+
+}
+
+.topM2 {
+    border: red 1px solid;
+    height: 80vh;
+    width: 30vw; 
+    margin-right: 10px;
+}
+
+.topM3 {
+    border: red 1px solid;
+    height: 90vh;
+    width: 30vw; 
+}
