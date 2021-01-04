@@ -1,3 +1,4 @@
+// Left component 
 class Left extends React.Component {
     render(){
         return(
@@ -8,7 +9,7 @@ class Left extends React.Component {
     }
     }
 
-
+// Middle component
 class TopM extends React.Component {
     render() {
         return(
@@ -27,16 +28,7 @@ class TopM extends React.Component {
     }
 }
 
-class BottomM extends React.Component {
-    render() {
-        return (
-            <div className=" bottomM">
-
-            </div>
-        )
-    }
-}
-
+// Main 
 class App extends React.Component {
     render () {
         return(
